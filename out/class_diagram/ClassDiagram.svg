@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1160px" preserveAspectRatio="none" style="width:845px;height:1160px;background:#FFFFFF;" version="1.1" viewBox="0 0 845 1160" width="845px" zoomAndPan="magnify"><defs/><g><!--MD5=[02e4b9b7573f1156f41e60aa5b4e25a4]
+class Company--><rect codeLine="6" fill="#FEFECE" height="41.0938" id="Company" style="stroke:#A80036;stroke-width:1.5;" width="59" x="255" y="109"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="258" y="126.457">Company</text><line style="stroke:#A80036;stroke-width:1.5;" x1="256" x2="313" y1="134.0938" y2="134.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="256" x2="313" y1="142.0938" y2="142.0938"/><!--MD5=[5e1deb958606d83ef5f4988eb2b8f966]
+class WarehouseManager--><rect codeLine="7" fill="#FEFECE" height="41.0938" id="WarehouseManager" style="stroke:#A80036;stroke-width:1.5;" width="118" x="509.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="112" x="512.5" y="24.457">WarehouseManager</text><line style="stroke:#A80036;stroke-width:1.5;" x1="510.5" x2="626.5" y1="32.0938" y2="32.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="510.5" x2="626.5" y1="40.0938" y2="40.0938"/><!--MD5=[dbbb619f82cf169864fc1f8193a722de]
+class SupplierManager--><rect codeLine="8" fill="#FEFECE" height="41.0938" id="SupplierManager" style="stroke:#A80036;stroke-width:1.5;" width="100" x="709.5" y="487"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="94" x="712.5" y="504.457">SupplierManager</text><line style="stroke:#A80036;stroke-width:1.5;" x1="710.5" x2="808.5" y1="512.0938" y2="512.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="710.5" x2="808.5" y1="520.0938" y2="520.0938"/><!--MD5=[cc01e5d6b8480d0ca3011451a4e1b975]
+class OperationalUnit--><rect codeLine="9" fill="#FEFECE" height="41.0938" id="OperationalUnit" style="stroke:#A80036;stroke-width:1.5;" width="92" x="129.5" y="487"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="132.5" y="504.457">OperationalUnit</text><line style="stroke:#A80036;stroke-width:1.5;" x1="130.5" x2="220.5" y1="512.0938" y2="512.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="130.5" x2="220.5" y1="520.0938" y2="520.0938"/><!--MD5=[6f6af049516bc56aac6e320b3234ce97]
+class Supplier--><rect codeLine="10" fill="#FEFECE" height="41.0938" id="Supplier" style="stroke:#A80036;stroke-width:1.5;" width="52" x="752.5" y="750"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="755.5" y="767.457">Supplier</text><line style="stroke:#A80036;stroke-width:1.5;" x1="753.5" x2="803.5" y1="775.0938" y2="775.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="753.5" x2="803.5" y1="783.0938" y2="783.0938"/><!--MD5=[cf4d6237fcae255cd2e1656cf84a30e2]
+class Order--><rect codeLine="11" fill="#FEFECE" height="54.9297" id="Order" style="stroke:#A80036;stroke-width:1.5;" width="78" x="529.5" y="228"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="31" x="553" y="245.457">Order</text><line style="stroke:#A80036;stroke-width:1.5;" x1="530.5" x2="606.5" y1="253.0938" y2="253.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="535.5" y="268.5127">+item quantity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="530.5" x2="606.5" y1="274.9297" y2="274.9297"/><!--MD5=[86c76def5ece80b7d8b2a7c0afcac5fe]
+class InternalOrder--><rect codeLine="14" fill="#FEFECE" height="54.9297" id="InternalOrder" style="stroke:#A80036;stroke-width:1.5;" width="78" x="55.5" y="228"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="72" x="58.5" y="245.457">InternalOrder</text><line style="stroke:#A80036;stroke-width:1.5;" x1="56.5" x2="132.5" y1="253.0938" y2="253.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="61.5" y="268.5127">+item quantity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="56.5" x2="132.5" y1="274.9297" y2="274.9297"/><!--MD5=[a32122c2e09bdca3f870ac07b0aaaf61]
+class QualityOffice--><rect codeLine="17" fill="#FEFECE" height="41.0938" id="QualityOffice" style="stroke:#A80036;stroke-width:1.5;" width="74" x="247.5" y="361"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="68" x="250.5" y="378.457">QualityOffice</text><line style="stroke:#A80036;stroke-width:1.5;" x1="248.5" x2="320.5" y1="386.0938" y2="386.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="248.5" x2="320.5" y1="394.0938" y2="394.0938"/><!--MD5=[c5149b4909ffd2688ff51a939867f774]
+class Warehouse--><rect codeLine="18" fill="#FEFECE" height="41.0938" id="Warehouse" style="stroke:#A80036;stroke-width:1.5;" width="70" x="541.5" y="361"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="64" x="544.5" y="378.457">Warehouse</text><line style="stroke:#A80036;stroke-width:1.5;" x1="542.5" x2="610.5" y1="386.0938" y2="386.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="542.5" x2="610.5" y1="394.0938" y2="394.0938"/><!--MD5=[083c7f909d1173981aedac4e0689899c]
+class WarehouseItem--><rect codeLine="19" fill="#FEFECE" height="54.9297" id="WarehouseItem" style="stroke:#A80036;stroke-width:1.5;" width="94" x="529.5" y="480"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="88" x="532.5" y="497.457">WarehouseItem</text><line style="stroke:#A80036;stroke-width:1.5;" x1="530.5" x2="622.5" y1="505.0938" y2="505.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="535.5" y="520.5127">+quantity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="530.5" x2="622.5" y1="526.9297" y2="526.9297"/><!--MD5=[73a4984e0533824be669d56aecb428c9]
+class WarehouseItemDescriptor--><rect codeLine="22" fill="#FEFECE" height="82.6016" id="WarehouseItemDescriptor" style="stroke:#A80036;stroke-width:1.5;" width="151" x="565" y="729"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="145" x="568" y="746.457">WarehouseItemDescriptor</text><line style="stroke:#A80036;stroke-width:1.5;" x1="566" x2="715" y1="754.0938" y2="754.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="571" y="769.5127">+name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="571" y="783.3486">+weight</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="571" y="797.1846">+type</text><line style="stroke:#A80036;stroke-width:1.5;" x1="566" x2="715" y1="803.6016" y2="803.6016"/><!--MD5=[a64a835c3d62471a77f615251fdde58a]
+class Position--><rect codeLine="27" fill="#FEFECE" height="68.7656" id="Position" style="stroke:#A80036;stroke-width:1.5;" width="81" x="449" y="736"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="467" y="753.457">Position</text><line style="stroke:#A80036;stroke-width:1.5;" x1="450" x2="529" y1="761.0938" y2="761.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="455" y="776.5127">+unit number</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="455" y="790.3486">+shelf number</text><line style="stroke:#A80036;stroke-width:1.5;" x1="450" x2="529" y1="796.7656" y2="796.7656"/><!--MD5=[190d3ed42b4601e8bf2af9996d981f9b]
+class PickupArea--><rect codeLine="31" fill="#FEFECE" height="54.9297" id="PickupArea" style="stroke:#A80036;stroke-width:1.5;" width="75" x="7" y="480"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="62" x="13.5" y="497.457">PickupArea</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="81" y1="505.0938" y2="505.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="63" x="13" y="520.5127">+coordinates</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="81" y1="526.9297" y2="526.9297"/><!--MD5=[a77781830b4eef1927aef37ad01ad2c2]
+class Catalogue--><rect codeLine="34" fill="#FEFECE" height="41.0938" id="Catalogue" style="stroke:#A80036;stroke-width:1.5;" width="63" x="609" y="969"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="612" y="986.457">Catalogue</text><line style="stroke:#A80036;stroke-width:1.5;" x1="610" x2="671" y1="994.0938" y2="994.0938"/><line style="stroke:#A80036;stroke-width:1.5;" x1="610" x2="671" y1="1002.0938" y2="1002.0938"/><!--MD5=[75e3222854e485739b94b325abfee5d2]
+class SupplierItem--><rect codeLine="35" fill="#FEFECE" height="54.9297" id="SupplierItem" style="stroke:#A80036;stroke-width:1.5;" width="76" x="374.5" y="565"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="70" x="377.5" y="582.457">SupplierItem</text><line style="stroke:#A80036;stroke-width:1.5;" x1="375.5" x2="449.5" y1="590.0938" y2="590.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="380.5" y="605.5127">+quantity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="375.5" x2="449.5" y1="611.9297" y2="611.9297"/><!--MD5=[ed879ae425ba45197a34fbe1d237b8b7]
+class SupplierItemDescriptor--><rect codeLine="38" fill="#FEFECE" height="82.6016" id="SupplierItemDescriptor" style="stroke:#A80036;stroke-width:1.5;" width="133" x="349" y="1071"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="127" x="352" y="1088.457">SupplierItemDescriptor</text><line style="stroke:#A80036;stroke-width:1.5;" x1="350" x2="481" y1="1096.0938" y2="1096.0938"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="355" y="1111.5127">+name</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="355" y="1125.3486">+weight</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="355" y="1139.1846">+type</text><line style="stroke:#A80036;stroke-width:1.5;" x1="350" x2="481" y1="1145.6016" y2="1145.6016"/><!--MD5=[14cf2653c8ba0c89d9a80ef08657e28c]
+reverse link Company to OperationalUnit--><path codeLine="45" d="M267,161.48 C247.77,196.94 217.52,257.35 201.5,313 C183.69,374.89 177.99,451.5 176.24,486.89 " fill="none" id="Company-backto-OperationalUnit" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="273.29,150.02,266.8965,153.3552,267.5161,160.5396,273.9096,157.2044,273.29,150.02" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="207.8433,317.3596,202.5824,325.2826,208.2441,326.8617,207.8433,317.3596" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="215.5" y="327.4951">composes</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="170.723" y="476.0188">*</text><!--MD5=[0db51da9c9bf95e8ffe7b88b340022cf]
+link WarehouseManager to InternalOrder--><path codeLine="47" d="M509.41,33.83 C440.61,42.02 325.21,62.02 237.5,109 C183.33,138.01 136.9,194.53 112.6,227.95 " fill="none" id="WarehouseManager-InternalOrder" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[10350ed5e9aa18c1622a2a7bff69a84b]
+link InternalOrder to OperationalUnit--><path codeLine="48" d="M103.17,283.25 C119.53,333.77 154.63,442.1 169.08,486.69 " fill="none" id="InternalOrder-OperationalUnit" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6d69c1e0b100e4e0cfe6a94b3a553a4c]
+link InternalOrder to PickupArea--><path codeLine="49" d="M89.15,283.25 C79.53,331.37 59.41,431.96 49.81,479.94 " fill="none" id="InternalOrder-PickupArea" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[641af49703b38e745c9a3976df66996b]
+link WarehouseManager to Warehouse--><path codeLine="50" d="M589.63,48.07 C604.23,63.11 622.43,85.29 630.5,109 C639.64,135.84 647.82,196.2 625.5,283 C618.09,311.81 601.34,341.95 589.49,360.96 " fill="none" id="WarehouseManager-Warehouse" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="644.4978,194.1758,647.4407,185.132,641.5629,185.1294,644.4978,194.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="653.5" y="194.4951">manages</text><!--MD5=[d5d1584b756a2c475000ee35f854de2d]
+link WarehouseManager to Order--><path codeLine="51" d="M568.5,48.16 C568.5,88.75 568.5,181.88 568.5,227.84 " fill="none" id="WarehouseManager-Order" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="573.5,134.6758,576.4389,125.6307,570.5611,125.6307,573.5,134.6758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="582.5" y="134.9951">makes</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="560.5156" y="69.752">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="562.9219" y="217.1375">*</text><!--MD5=[0f9d8c925d5a3f260c0de753a3c12e33]
+link Order to SupplierManager--><path codeLine="52" d="M588.94,283.25 C627.53,333.77 710.3,442.1 744.37,486.69 " fill="none" id="Order-SupplierManager" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="678.4645,377.7027,681.6204,386.6743,686.2911,383.1059,678.4645,377.7027" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="690.5" y="386.9951">takes care of</text><!--MD5=[32fa7d31958d72e940406ebfd7a162e6]
+link Company to QualityOffice--><path codeLine="53" d="M284.5,150.12 C284.5,196.85 284.5,314.33 284.5,360.97 " fill="none" id="Company-QualityOffice" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="289.5,260.6758,292.4389,251.6307,286.5611,251.6307,289.5,260.6758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="298.5" y="260.9951">has a</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="276.5156" y="171.7007">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="278.7656" y="350.1223">*</text><!--MD5=[acda98ef2513d819683ba761a9c77b11]
+link Company to Warehouse--><path codeLine="54" d="M307.41,150.12 C362,196.85 499.22,314.33 553.69,360.97 " fill="none" id="Company-Warehouse" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="468.2982,258.9275,463.3386,250.8125,459.5159,255.2776,468.2982,258.9275" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="473.5" y="260.9951">owns</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="305.8691" y="171.7007">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="538.9614" y="350.1223">1</text><!--MD5=[53d6844f43cd6df1dae43fa88f484d16]
+reverse link Warehouse to WarehouseItem--><path codeLine="55" d="M576.5,415.34 C576.5,435.39 576.5,460.7 576.5,479.56 " fill="none" id="Warehouse-backto-WarehouseItem" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="576.5,402.15,572.5,408.15,576.5,414.15,580.5,408.15,576.5,402.15" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="581.5,446.1758,584.4389,437.1307,578.5611,437.1307,581.5,446.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="590.5" y="446.4951">contains</text><!--MD5=[7bc6075794a9b7abaf24828aca060d91]
+link WarehouseItem to Position--><path codeLine="56" d="M567.52,535.45 C551.54,583.38 518.23,683.32 500.75,735.75 " fill="none" id="WarehouseItem-Position" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="531.9188,663.9192,537.5673,656.2677,531.9911,654.4089,531.9188,663.9192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="542.5" y="664.4951">has a</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="560.1523" y="556.4033">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="495.2273" y="725.1517">1</text><!--MD5=[99c6294c92b1579ab136772761717838]
+link WarehouseItem to WarehouseItemDescriptor--><path codeLine="57" d="M583.11,535.45 C594.35,581.29 617.26,674.73 630.48,728.65 " fill="none" id="WarehouseItem-WarehouseItemDescriptor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="620.6907,664.0319,621.3911,654.5472,615.6824,655.9469,620.6907,664.0319" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="628.5" y="664.4951">is described by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="578.9577" y="556.4033">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="621.3253" y="718.26">1</text><!--MD5=[3f6639050878ea590a32556a3727c3f9]
+link SupplierManager to Supplier--><path codeLine="58" d="M760.93,528.12 C764.45,576.49 773.52,701.05 777.06,749.65 " fill="none" id="SupplierManager-Supplier" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="775.8631,664.1626,778.1374,654.928,772.2751,655.3548,775.8631,664.1626" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="784.5" y="664.4951">manages</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="753.3478" y="549.7007">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="768.6706" y="739.0673">1</text><!--MD5=[674b746b4be83854983bf99f25cf44ff]
+link Order to SupplierItem--><path codeLine="61" d="M531.11,283.16 C507.25,302.17 477.69,329.81 460.5,361 C423.61,427.95 415,520.08 413.04,564.88 " fill="none" id="Order-SupplierItem" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="463.5674,386.2872,469.7741,379.0811,464.353,376.8091,463.5674,386.2872" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="474.5" y="386.9951">contains</text><!--MD5=[4dbdae29956b35373e6443c2d4d4b21d]
+link Supplier to Catalogue--><path codeLine="62" d="M767.45,791.24 C752.29,818.06 723.91,867.32 697.5,908 C683.7,929.26 666.8,952.84 655.01,968.96 " fill="none" id="Supplier-Catalogue" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="709.8267,903.4011,717.1463,897.3287,712.1791,894.1861,709.8267,903.4011" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="30" x="721.5" y="904.4951">owns</text><!--MD5=[7e1d6ad1dde0d5492f96b1ff8eea0c28]
+reverse link Catalogue to SupplierItemDescriptor--><path codeLine="63" d="M596.93,1013.93 C564.39,1031.43 519.35,1055.65 482.28,1075.59 " fill="none" id="Catalogue-backto-SupplierItemDescriptor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="608.74,1007.58,601.561,1006.9006,598.1727,1013.2661,605.3517,1013.9455,608.74,1007.58" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="489.8575" y="1068.2141">*</text><!--MD5=[dd3b38f26538269110949b7c098b2815]
+link SupplierItem to SupplierItemDescriptor--><path codeLine="64" d="M405.68,620.37 C400.95,641.36 395.5,671.35 395.5,698 C395.5,698 395.5,698 395.5,990.5 C395.5,1017.54 400.42,1047.53 405.38,1070.89 " fill="none" id="SupplierItem-SupplierItemDescriptor" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="400.4967,856.1758,403.4416,847.1327,397.5638,847.1287,400.4967,856.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="409.5" y="856.4951">is described by</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="398.7578" y="641.3068">*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="396.1242" y="1060.2306">1</text><!--MD5=[38b29732f9f5467b9fe3f6c425169dd0]
+link WarehouseItemDescriptor to Catalogue--><path codeLine="65" d="M640.5,812.06 C640.5,858.8 640.5,933.68 640.5,968.94 " fill="none" id="WarehouseItemDescriptor-Catalogue" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#000000" points="645.5,904.1758,648.4389,895.1307,642.5611,895.1307,645.5,904.1758" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="654.5" y="904.4951">inside</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="632.9641" y="833.2014">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="634.7656" y="958.0835">*</text><!--MD5=[5f224ed71760feca805e7d53367936fa]
+@startuml ClassDiagram
+skinparam Style strictuml
+' Remove strange Icons in Attributes
+skinparam classAttributeIconSize 0
+
+' Classes
+Class Company
+Class WarehouseManager
+Class SupplierManager
+Class OperationalUnit
+Class Supplier
+Class Order {
+    + item quantity
+}
+Class InternalOrder {
+    + item quantity
+}
+Class QualityOffice
+Class Warehouse
+Class WarehouseItem {
+    + quantity
+}
+Class WarehouseItemDescriptor {
+    + name
+    + weight
+    + type
+}
+Class Position {
+    + unit number
+    + shelf number
+}
+Class PickupArea {
+    + coordinates
+}
+Class Catalogue
+Class SupplierItem {
+    + quantity
+}
+Class SupplierItemDescriptor {
+    + name
+    + weight
+    + type
+}
+
+' Relationships
+Company *- - "*" OperationalUnit: composes <
+' WarehouseManager "1" - - - "*" OperationalUnit: internal orders to <
+WarehouseManager - - - InternalOrder
+InternalOrder - - - OperationalUnit
+InternalOrder - - - PickupArea
+WarehouseManager - - - Warehouse: manages >
+WarehouseManager "1" - - - "*" Order: makes >
+Order - - - SupplierManager: takes care of <
+Company "1" - - - "*" QualityOffice: has a >
+Company "1" - - - "1" Warehouse: owns >
+Warehouse o- - WarehouseItem: contains >
+WarehouseItem "*" - - - "1" Position: has a >
+WarehouseItem "*" - - - "1" WarehouseItemDescriptor: is described by >
+SupplierManager "1" - - - "1" Supplier: manages >
+'PickupArea "1" - - - "*" OperationalUnit: collect internal orders from <
+'WarehouseManager "1" - - - "*" PickupArea: deliver internal orders to >
+Order - - - SupplierItem: contains >
+Supplier - - - Catalogue: owns >
+Catalogue o- - "*" SupplierItemDescriptor
+SupplierItem "*" - - - "1" SupplierItemDescriptor: is described by >
+WarehouseItemDescriptor "1" - - - "*" Catalogue: inside >
+
+' Questions
+' 1. Item - - - Order: is this good? I would say no, because the items in the 
+'    Warehouse could be different from the ones offered by Suppliers.
+'    In the text, "When a certain item is in short supply, the manager
+'    issues an order to a supplier"
+'    - - - -> Maybe dividing "Items of Warehouse" and "Items of Supplier"
+' 2. WarehouseItemDescriptor - - Catalogue
+
+@enduml
+
+@startuml ClassDiagram
+skinparam Style strictuml
+skinparam classAttributeIconSize 0
+
+Class Company
+Class WarehouseManager
+Class SupplierManager
+Class OperationalUnit
+Class Supplier
+Class Order {
+    + item quantity
+}
+Class InternalOrder {
+    + item quantity
+}
+Class QualityOffice
+Class Warehouse
+Class WarehouseItem {
+    + quantity
+}
+Class WarehouseItemDescriptor {
+    + name
+    + weight
+    + type
+}
+Class Position {
+    + unit number
+    + shelf number
+}
+Class PickupArea {
+    + coordinates
+}
+Class Catalogue
+Class SupplierItem {
+    + quantity
+}
+Class SupplierItemDescriptor {
+    + name
+    + weight
+    + type
+}
+
+Company *- - "*" OperationalUnit: composes <
+WarehouseManager - - - InternalOrder
+InternalOrder - - - OperationalUnit
+InternalOrder - - - PickupArea
+WarehouseManager - - - Warehouse: manages >
+WarehouseManager "1" - - - "*" Order: makes >
+Order - - - SupplierManager: takes care of <
+Company "1" - - - "*" QualityOffice: has a >
+Company "1" - - - "1" Warehouse: owns >
+Warehouse o- - WarehouseItem: contains >
+WarehouseItem "*" - - - "1" Position: has a >
+WarehouseItem "*" - - - "1" WarehouseItemDescriptor: is described by >
+SupplierManager "1" - - - "1" Supplier: manages >
+Order - - - SupplierItem: contains >
+Supplier - - - Catalogue: owns >
+Catalogue o- - "*" SupplierItemDescriptor
+SupplierItem "*" - - - "1" SupplierItemDescriptor: is described by >
+WarehouseItemDescriptor "1" - - - "*" Catalogue: inside >
+
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 17:16:42 CET 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: it
+Country: IT
+--></g></svg>

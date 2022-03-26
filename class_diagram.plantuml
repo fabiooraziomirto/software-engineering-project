@@ -1,0 +1,76 @@
+@startuml ClassDiagram
+skinparam Style strictuml
+' Remove strange Icons in Attributes
+skinparam classAttributeIconSize 0
+
+' Classes
+Class Company
+Class WarehouseManager
+Class SupplierManager
+Class OperationalUnit
+Class Supplier
+Class Order {
+    + item quantity
+}
+Class InternalOrder {
+    + item quantity
+}
+Class QualityOffice
+Class Warehouse
+Class WarehouseItem {
+    + quantity
+}
+Class WarehouseItemDescriptor {
+    + name
+    + weight
+    + type
+}
+Class Position {
+    + unit number
+    + shelf number
+}
+Class PickupArea {
+    + coordinates
+}
+Class Catalogue
+Class SupplierItem {
+    + quantity
+}
+Class SupplierItemDescriptor {
+    + name
+    + weight
+    + type
+}
+
+' Relationships
+Company *-- "*" OperationalUnit: composes <
+' WarehouseManager "1" --- "*" OperationalUnit: internal orders to <
+WarehouseManager --- InternalOrder
+InternalOrder --- OperationalUnit
+InternalOrder --- PickupArea
+WarehouseManager --- Warehouse: manages >
+WarehouseManager "1" --- "*" Order: makes >
+Order --- SupplierManager: takes care of <
+Company "1" --- "*" QualityOffice: has a >
+Company "1" --- "1" Warehouse: owns >
+Warehouse o-- WarehouseItem: contains >
+WarehouseItem "*" --- "1" Position: has a >
+WarehouseItem "*" --- "1" WarehouseItemDescriptor: is described by >
+SupplierManager "1" --- "1" Supplier: manages >
+'PickupArea "1" --- "*" OperationalUnit: collect internal orders from <
+'WarehouseManager "1" --- "*" PickupArea: deliver internal orders to >
+Order --- SupplierItem: contains >
+Supplier --- Catalogue: owns >
+Catalogue o-- "*" SupplierItemDescriptor
+SupplierItem "*" --- "1" SupplierItemDescriptor: is described by >
+WarehouseItemDescriptor "1" --- "*" Catalogue: inside >
+
+' Questions
+' 1. Item --- Order: is this good? I would say no, because the items in the 
+'    Warehouse could be different from the ones offered by Suppliers.
+'    In the text, "When a certain item is in short supply, the manager
+'    issues an order to a supplier"
+'    ----> Maybe dividing "Items of Warehouse" and "Items of Supplier"
+' 2. WarehouseItemDescriptor -- Catalogue
+
+@enduml

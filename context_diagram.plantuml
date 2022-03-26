@@ -1,0 +1,14 @@
+@startuml ContextDiagram
+
+rectangle System{
+	usecase "EzWH" as EZWareHouse
+}
+
+User <|-- Manager
+User <|-- Administrator
+User --- EZWareHouse
+
+PaymentService --- EZWareHouse
+CloudService --- EZWareHouse
+TransportationCompany --- EZWareHouse
+@enduml
